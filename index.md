@@ -1,4 +1,4 @@
 ---
-avatar: "shuchu.png"
+layout: default
 ---
 This is a test page.
