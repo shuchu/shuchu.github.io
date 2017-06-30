@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-Greetings! I am a Senior Associate Researcher at NEC Data Science team in Princeton NJ. 
+Greetings! I am a Senior Associate Researcher at [NEC Data Science team](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
 
 I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and PhD degree in Computer Science from Stony Brook University, under the supervision of Hong Qin.
 
 During my PhD study, I was fortunate enough to work with Steven Skiena, Leman Akoglu and Yifan Hu.
 
-My personalresearch interests include sparse graph representation, unsupervised clustering and online learning algorithms, machine learning, and graph mining. 
+My personal research interests include sparse graph representation, unsupervised clustering and online learning algorithms, machine learning, and graph mining. 
 
 ### [](#header-3) Manuscipts in Progress:   
 Automatically Redundant Features Removal for Unsupervised Feature Selection via Sparse Feature Graph  
