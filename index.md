@@ -5,7 +5,7 @@ Greetings! I am a Senior Associate Researcher at [NEC Data Science team](http://
 
 I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and Ph.D in Computer Science from Stony Brook University, under the supervision of Hong Qin.
 
-During my PhD study, I was fortunate enough to work with Steven Skiena, Leman Akoglu and Yifan Hu.
+During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net/).
 
 My personal research interests include sparse graph representation, unsupervised clustering and online learning algorithms, machine learning, and graph mining. 
 
