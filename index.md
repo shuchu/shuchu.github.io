@@ -7,7 +7,7 @@ I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaoton
 
 During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net/).
 
-My personal research interests include sparse graph representation, unsupervised clustering and online learning algorithms, machine learning, and graph mining. 
+My personal research interests include sparse graph representation, semi-supervised learning and online learning algorithms, large scale machine learning, and graph mining. 
 
 ### [](#header-3) Manuscipts in Progress:   
 Automatically Redundant Features Removal for Unsupervised Feature Selection via Sparse Feature Graph  
