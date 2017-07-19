@@ -62,7 +62,7 @@ A Greedy Algorithm to Construct Sparse Graph by Using Ranked Dictionary
 Shuchu Han, Hong Qin   
 JDSA 2016  
 
-Constructing Hexahedral Shell Mesh via Volumetric Polycube Map   
+[Constructing Hexahedral Shell Mesh via Volumetric Polycube Map](papers/2011_CAD_construct_hex_shell.pdf) 
 Shuchu Han, Jiazhi Xia, and Ying He  
 CAD 2011   
 
