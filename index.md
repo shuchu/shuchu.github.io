@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Greetings! I am a Senior Associate Researcher at [NEC Data Science team](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
+Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
 
 I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University, under the supervision of Hong Qin.
 
