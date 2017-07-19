@@ -9,7 +9,7 @@ During my PhD study, I was fortunate enough to work with [Steven Skiena](http://
 
 My personal research interests include sparse graph representation, semi-supervised learning and online learning algorithms, large scale machine learning, data stream mining and graph mining. 
 
-This is my [CV]() and [Google scholar]().
+This is my [CV](docs/ShuchuHan_CV.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
 ### [](#header-3) Manuscipts in Progress:   
 [Automatically Redundant Features Removal for Unsupervised Feature Selection via Sparse Feature Graph](https://arxiv.org/abs/1705.04804)     
@@ -70,4 +70,4 @@ CAD 2011
 
 ### [](#header-3) Tutorials:   
 Sparse Graph Representation and Its Applications  
-PhD Thesis. See also Talk slides. (under construction)   
+[PhD Thesis](docs/thesis_ShuchuHan_final.pdf).     
