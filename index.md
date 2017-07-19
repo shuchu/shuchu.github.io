@@ -3,11 +3,13 @@ layout: default
 ---
 Greetings! I am a Senior Associate Researcher at [NEC Data Science team](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
 
-I received my Ph.D in Computer Science from Stony Brook University, under the supervision of Hong Qin. Before that, I received M.Eng in Computer Science from Nanyang Technological University and M.Eng in Control Theory from Shandong University. My B.Eng in Electronic and Information Engineering is from Xi'an Jiaotong University.
+I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University, under the supervision of Hong Qin.
 
 During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net/).
 
 My personal research interests include sparse graph representation, semi-supervised learning and online learning algorithms, large scale machine learning, data stream mining and graph mining. 
+
+This is my [CV]() and [Google scholar]().
 
 ### [](#header-3) Manuscipts in Progress:   
 [Automatically Redundant Features Removal for Unsupervised Feature Selection via Sparse Feature Graph](https://arxiv.org/abs/1705.04804)     
