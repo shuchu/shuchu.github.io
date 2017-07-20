@@ -15,9 +15,9 @@
     <div class="wrapper">
       <header>
 	<h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <img src="/images/shuchu_new.jpg"/>
+        <img src="/images/shuchu_new.jpg" height="width:128px;height:128px;">
         <p>Email: {{site.email}}<br>Address: {{site.address}}<br>Phone: {{site.phone}}</p>		
-        <img src="/images/sbu.gif"/ style="width:40px;height:40px;border:0;">	
+        <img src="/images/sbu.gif"/ style="width:80px;height:80px;border:0;">	
 	{% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}"> <small>{{ github_name }}</small></a></p>
         {% endif %}
