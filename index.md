@@ -19,10 +19,11 @@ Arxiv 2017
 Generating Look-alike Names For Security Challenges  
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin  
 
-Nationality Classification using Name Embeddings  
-Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena  
-
 ### [](#header-3) Conference Publications:
+Nationality Classification using Name Embeddings   
+Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena      
+CIKM 2017
+
 [Generating Look-alike Names via Distributed Representations](papers/2016_Yahoo_Look_alike_Names.pdf)     
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu  
 Yahoo Tech Pulse 2016
