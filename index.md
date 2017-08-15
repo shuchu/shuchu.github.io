@@ -46,7 +46,7 @@ SAC 2015
 
 [An Improved Ratio-based (IRB) Batch Effect Removal Algorithm  for Cancer Data in a Co-analysis Framework](papers/2014-bibe-batch-effects-removal.pdf)     
 Shuchu Han, Hong Qin, Dantong Yu  
-**Best student paper** at ICBB 2014  
+**Best student paper** at IEEE BIBE 2014  
 
 [Parameterization of Star Shaped Volumes Using Green's Functions](papers/2010_GMP_parameterized_star_shape.pdf)     
 Jiazhi Xia, Ying He, Shuchu Han, Chi-Wing Fu, Feng Luo, Xianfeng Gu   
