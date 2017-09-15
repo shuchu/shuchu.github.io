@@ -14,11 +14,13 @@ This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.goog
 Shuchu Han, Hao Huang, Hong Qin  
 Arxiv 2017  
 
+### [](#header-3) Conference Publications:   
 Generating Look-alike Names For Security Challenges  
-Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin  
+Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin, Jaime Perez    
+AISec 2017
 
-### [](#header-3) Conference Publications:
-Nationality Classification using Name Embeddings   
+[Nationality Classification using Name Embeddings]
+(https://arxiv.org/pdf/1708.07903)
 Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena      
 CIKM 2017
 
