@@ -19,8 +19,7 @@ Generating Look-alike Names For Security Challenges
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin, Jaime Perez    
 AISec 2017
 
-[Nationality Classification using Name Embeddings]
-(https://arxiv.org/pdf/1708.07903)
+[Nationality Classification using Name Embeddings](https://arxiv.org/pdf/1708.07903)
 Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena      
 CIKM 2017
 
