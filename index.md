@@ -21,9 +21,9 @@ AISec 2017
 
 [Nationality Classification using Name Embeddings](https://arxiv.org/pdf/1708.07903)   
 Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena   
-CIKM 2017
-[Steve on WIRED magazine](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/).
-Junting's hard working on [NamePrism])(http://www.name-prism.com)
+CIKM 2017   
+[Steve on WIRED magazine](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/).    
+Junting's hard working on [NamePrism])(http://www.name-prism.com).  
 
 [Generating Look-alike Names via Distributed Representations](papers/2016_Yahoo_Look_alike_Names.pdf)     
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu  
