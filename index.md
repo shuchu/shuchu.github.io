@@ -5,7 +5,7 @@ Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs]
 
 I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with Steven Skiena, Leman Akoglu and Yifan Hu.
 
-My personal research interests include graph, online learning and large scale machine learning, data stream mining and graph mining. 
+My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimiazation and Graphs. 
 
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
@@ -22,6 +22,8 @@ AISec 2017
 [Nationality Classification using Name Embeddings](https://arxiv.org/pdf/1708.07903)   
 Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena   
 CIKM 2017
+[Steve on WIRED magazine](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/).
+Junting's hard working on [NamePrism])(http://www.name-prism.com)
 
 [Generating Look-alike Names via Distributed Representations](papers/2016_Yahoo_Look_alike_Names.pdf)     
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu  
@@ -31,7 +33,7 @@ Yahoo Tech Pulse 2016
 Shuchu Han, Hong Qin  
 PAKDD 2016  
 
-[Structure Aware L1 Graph for Data Custering](papers/2016-aaai-structure-aware-data-clustering.pdf), (Student Abstract)     
+[Structure Aware L1 Graph for Data Clustering](papers/2016-aaai-structure-aware-data-clustering.pdf), (Student Abstract)     
 Shuchu Han, Hong Qin   
 AAAI 2016   
 
@@ -45,7 +47,7 @@ SAC 2015
 
 [An Improved Ratio-based (IRB) Batch Effect Removal Algorithm  for Cancer Data in a Co-analysis Framework](papers/2014-bibe-batch-effects-removal.pdf)     
 Shuchu Han, Hong Qin, Dantong Yu  
-**Best student paper** at IEEE BIBE 2014  
+**Best student paper** at IEEE ICBB 2014  
 
 [Parameterization of Star Shaped Volumes Using Green's Functions](papers/2010_GMP_parameterized_star_shape.pdf)     
 Jiazhi Xia, Ying He, Shuchu Han, Chi-Wing Fu, Feng Luo, Xianfeng Gu   
@@ -62,7 +64,7 @@ SMI 2010
 ### [](#header-3) Journal Publications:   
 [A Greedy Algorithm to Construct Sparse Graph by Using Ranked Dictionary](papers/2016-greedy-algorithm-to-construct-sparse-graph.pdf)         
 Shuchu Han, Hong Qin   
-JDSA 2016  
+IJDSA 2016  
 
 [Constructing Hexahedral Shell Mesh via Volumetric Polycube Map](papers/2011_CAD_construct_hex_shell.pdf)     
 Shuchu Han, Jiazhi Xia, and Ying He  
