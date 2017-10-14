@@ -3,7 +3,7 @@ layout: default
 ---
 Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
 
-I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with Steven Skiena, Leman Akoglu and Yifan Hu.
+I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net).
 
 My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimiazation and Graphs. 
 
@@ -47,7 +47,7 @@ SAC 2015
 
 [An Improved Ratio-based (IRB) Batch Effect Removal Algorithm  for Cancer Data in a Co-analysis Framework](papers/2014-bibe-batch-effects-removal.pdf)     
 Shuchu Han, Hong Qin, Dantong Yu  
-**Best student paper** at IEEE ICBB 2014  
+**Best student paper** at IEEE BIBE 2014  
 
 [Parameterization of Star Shaped Volumes Using Green's Functions](papers/2010_GMP_parameterized_star_shape.pdf)     
 Jiazhi Xia, Ying He, Shuchu Han, Chi-Wing Fu, Feng Luo, Xianfeng Gu   
