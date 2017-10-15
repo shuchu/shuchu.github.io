@@ -5,7 +5,7 @@ Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs]
 
 I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net).
 
-My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimiazation and Graphs. 
+My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimization, and Graphs. 
 
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
