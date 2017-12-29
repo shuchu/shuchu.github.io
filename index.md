@@ -5,14 +5,22 @@ Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs]
 
 I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net).
 
-My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimization, and Graphs. 
+My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimization, and System. 
 
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
+###[](#header-3) News:
+The Data Science team fo NEC Labs is hiring [Full-time Researchers](docs/data_science_FTE_job_description_2018.pdf) and [2018 Summer Interns](docs/data_science_Intern_job_description_2018.pdf). Please clicks the position for more details.
+
+For myself, I have following research problems. If you are interested in, feel free to drop me an email. Although I am not a famous reseracher, but the problems are interesting.
+1. Non-linear feature selection over real-time sensors data. The dataset is big and a time series one, and has around 2k sensors (or features). The goal is to optimize an objective function while select important features.
+Kernel method is applied here.
+
+
 ### [](#header-3) Manuscipts in Progress:   
-[Automatically Redundant Features Removal for Unsupervised Feature Selection via Sparse Feature Graph](https://arxiv.org/abs/1705.04804)     
-Shuchu Han, Hao Huang, Hong Qin  
-Arxiv 2017  
+[Nonparametric Redundant Features Removal for Unsupervised Feature Selection: An Empirical Study based on Sparse Feature Graph](papers/2017_sfg_fs.pdf)     
+Pengfei Xu, Shuchu Han, Hao Huang, Hong Qin  
+Submitted
 
 ### [](#header-3) Conference Publications:   
 Generating Look-alike Names For Security Challenges  
