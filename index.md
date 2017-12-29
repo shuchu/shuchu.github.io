@@ -8,7 +8,7 @@ I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaoton
 My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimization, and System. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
 ### [](#header-3) News:
-The Data Science team of NEC Labs is hiring [Full-time Researchers](docs/data_science_FTE_job_description_2018.pdf) and [2018 Summer Interns](docs/data_science_Intern_job_description_2018.pdf). Please clicks the position for more details.
+The Data Science team of NEC Labs is hiring [Full-time Researchers](docs/data_science_FTE_job_description_2018.pdf) and [2018 Summer Interns](docs/data_science_Intern_job_description_2018.pdf). Please click the positions for more details.
 
 For myself, I have following research problems. If you are interested in, let me know. Although I am not a famous reseacher, the problems are very interesting.    
 1. Nonlinear feature selection over real-time sensors data. The dataset is big and time series. It has around 2k sensors (or features). The goal is to optimize an objective function while select important features.
