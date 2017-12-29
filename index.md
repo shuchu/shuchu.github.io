@@ -11,10 +11,9 @@ My personal research interests include Applied Machine Learning and Graph Mining
 The Data Science team of NEC Labs is hiring [Full-time Researchers](docs/data_science_FTE_job_description_2018.pdf) and [2018 Summer Interns](docs/data_science_Intern_job_description_2018.pdf). Please click the positions for more details.
 
 For myself, I have following research problems. If you are interested in, let me know. Although I am not a famous reseacher, the problems are very interesting.    
-1. Nonlinear feature selection over real-time sensors data. The dataset is big and time series. It has around 2k sensors (or features). The goal is to optimize an objective function while select important features.
-Kernel method is applied here.
-2. (Graph) Pattern mining over large volume time series data. This is a graph mining project which has following two goals: a) frequent pattern mining; b) anomaly detection.
-
+1. Nonlinear feature selection over real-time sensors data. The dataset is big and time series. It has around 2k sensors (or features). The goal is to optimize an objective function and select important features accordingly.
+Kernel machine is applied here.
+2. (Graph) Pattern mining over large volume time series data. This is a graph mining project with following two goals: a) frequent pattern mining; b) anomaly detection.
 
 ### [](#header-3) Manuscipts in Progress:   
 [Nonparametric Redundant Features Removal for Unsupervised Feature Selection: An Empirical Study based on Sparse Feature Graph](papers/2017_sfg_fs.pdf)     
