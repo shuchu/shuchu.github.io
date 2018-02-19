@@ -72,5 +72,5 @@ Shuchu Han, Jiazhi Xia, and Ying He
 CAD 2011   
 
 ### [](#header-3) Tutorials:   
-Sparse Graph Representation and Its Applications  
-[PhD Thesis](docs/thesis_ShuchuHan_final.pdf).     
+PhD thesis title: Sparse Graph Representation and Its Applications  
+     
