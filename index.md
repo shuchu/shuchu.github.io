@@ -3,7 +3,7 @@ layout: default
 ---
 Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
 
-I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net).
+I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. My advisor is Prof. [Hong Qin](http://www3.cs.stonybrook.edu/~qin/). During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net).
 
 My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimization, and System. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
