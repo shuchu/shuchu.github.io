@@ -8,7 +8,7 @@ I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaoton
 My personal research interests include Applied Machine Learning and Graph Mining, Online and Streaming algorithms, Large Scale Optimization, and System. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
 ### [](#header-3) News:
-The Data Science team of NEC Labs is hiring [Full-time Researchers](docs/data_science_FTE_job_description_2018.pdf) and [2018 Summer Interns](docs/data_science_Intern_job_description_2018.pdf). Please click the positions for more details.
+
 
 ### [](#header-3) Manuscipts in Progress:   
 [Nonparametric Redundant Features Removal for Unsupervised Feature Selection: An Empirical Study based on Sparse Feature Graph](papers/2017_sfg_fs.pdf)     
@@ -73,4 +73,7 @@ CAD 2011
 
 ### [](#header-3) Tutorials:   
 PhD thesis title: Sparse Graph Representation and Its Applications  
+
+### Links:  
+[Optimization-online](http://http://www.optimization-online.org)
      
