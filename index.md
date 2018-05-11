@@ -75,6 +75,6 @@ CAD 2011
 PhD thesis title: Sparse Graph Representation and Its Applications  
 
 ### Links:  
-[Optimization-online](http://http://www.optimization-online.org)
+[Optimization-online](http://www.optimization-online.org)   
 [Distributed system](https://www.allthingsdistributed.com/)
      
