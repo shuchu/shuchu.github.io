@@ -11,9 +11,9 @@ My personal research interests include Applied Machine Learning and Graph Mining
 
 
 ### [](#header-3) Manuscipts in Progress:   
-[Nonparametric Redundant Features Removal for Unsupervised Feature Selection: An Empirical Study based on Sparse Feature Graph](papers/2017_sfg_fs.pdf)     
+[Redundant Features Removal for Unsupervised Spectral Feature Selection Algorithms: An Empirical Study based on Nonparametric Sparse Feature Graph](papers/2017_sfg_fs.pdf)     
 Pengfei Xu, Shuchu Han, Hao Huang, Hong Qin  
-Submitted
+Submitted to JDSA
 
 ### [](#header-3) Conference Publications:   
 Generating Look-alike Names For Security Challenges  
