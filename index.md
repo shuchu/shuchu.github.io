@@ -3,12 +3,12 @@ layout: default
 ---
 Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
 
-I received my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University and my Ph.D in Computer Science from Stony Brook University. During my PhD study, I was fortunate enough to work with [Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/), [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/) and [Yifan Hu](http://yifanhu.net).
+I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University. 
 
-My personal research interests include Applied Machine Learning, Graph Mining and System. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
+My personal research interests include streaming algorithm, online learning, Graph and System. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
 ### [](#header-3) News:
-
+[TBA]
 
 ### [](#header-3) Manuscipts in Progress:   
 [Redundant Features Removal for Unsupervised Spectral Feature Selection Algorithms: An Empirical Study based on Nonparametric Sparse Feature Graph](papers/2017_sfg_fs.pdf)     
