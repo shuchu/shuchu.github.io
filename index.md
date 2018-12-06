@@ -12,7 +12,6 @@ My personal research interests include streaming algorithm, online learning, Gra
 
 ### [](#header-3) Manuscipts in Progress:   
 
-
 ### [](#header-3) Conference Publications:   
 Generating Look-alike Names For Security Challenges  
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin, Jaime Perez    
@@ -61,11 +60,11 @@ Jiazhi Xia, Ying He, Xiaotian Yin, Shuchu Han, Xianfeng Gu
 SMI 2010   
 
 ### [](#header-3) Journal Publications:   
-[Redundant Features Removal for Unsupervised Spectral Feature Selection Algorithms: An Empirical Study based on Nonparametric Sparse Feature Graph](papers/2018_JDSA_final.pdf)     
+[Redundant Features Removal for Unsupervised Spectral Feature Selection Algorithms: An Empirical Study based on Nonparametric Sparse Feature Graph](https://rdcu.be/bcv4Y)     
 Pengfei Xu, Shuchu Han, Hao Huang, Hong Qin  
 IJDSA 2018
 
-[A Greedy Algorithm to Construct Sparse Graph by Using Ranked Dictionary](papers/2016-greedy-algorithm-to-construct-sparse-graph.pdf)         
+[A Greedy Algorithm to Construct Sparse Graph by Using Ranked Dictionary](https://link.springer.com/article/10.1007/s41060-016-0020-3)         
 Shuchu Han, Hong Qin   
 IJDSA 2016  
 
