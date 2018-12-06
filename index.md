@@ -81,12 +81,12 @@ PhD thesis title: Sparse Graph Representation and Its Applications
 
 ### Games:
 [2018 Princeton Half-Marathon -- 2:08:43]  
-[pic_1](images/2018_princeton_hm_1.jpg)
-[pic_2](images/2018_princeton_hm_2.jpg)
-[pic_3](images/2018_princeton_hm_3.jpg)
-[pic_4](images/princeton_1.jpg)
-[pic_5](images/princeton_2.jpg)
-[pic_6](images/princeton_3.jpg)
-[pic_7](images/princeton_4.jpg)
-[pic_8](images/princeton_5.jpg)
-[pic_9](images/princeton_6.jpg)
+Pictures: [1](images/2018_princeton_hm_1.jpg)
+[2](images/2018_princeton_hm_2.jpg)
+[3](images/2018_princeton_hm_3.jpg)
+[4](images/princeton_1.jpg)
+[5](images/princeton_2.jpg)
+[6](images/princeton_3.jpg)
+[7](images/princeton_4.jpg)
+[8](images/princeton_5.jpg)
+[9](images/princeton_6.jpg)
