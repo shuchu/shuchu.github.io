@@ -79,8 +79,8 @@ PhD thesis title: Sparse Graph Representation and Its Applications
 [Optimization-online](http://www.optimization-online.org)   
 [Distributed system](https://www.allthingsdistributed.com/)
 
-### games:
-[2018 Princeton Half-Marathon -- 2:08:43]
+### Games:
+[2018 Princeton Half-Marathon -- 2:08:43]  
 [pic_1](images/2018_princeton_hm_1.jpg)
 [pic_2](images/2018_princeton_hm_2.jpg)
 [pic_3](images/2018_princeton_hm_3.jpg)
