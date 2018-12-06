@@ -13,7 +13,7 @@ My personal research interests include streaming algorithm, online learning, Gra
 ### [](#header-3) Manuscipts in Progress:   
 
 ### [](#header-3) Conference Publications:   
-[Generating Look-alike Names For Security Challenges](https://dl.acm.org/citation.cfm?id=3128572.3140441)
+[Generating Look-alike Names For Security Challenges](https://dl.acm.org/citation.cfm?id=3128572.3140441)  
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin, Jaime Perez    
 AISec 2017
 
