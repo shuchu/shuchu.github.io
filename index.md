@@ -91,7 +91,7 @@ Pictures: [1](images/2018_princeton_hm_1.jpg)
 [8](images/princeton_5.jpg)
 [9](images/princeton_6.jpg)  
 [2019 NJ Half-Marathon -- 2:02:40]   
-Pictures: [1](image/2019_NJ_marathon.png)
+Pictures: [1](images/2019_NJ_marathon.png)
 [2](images/2019_NJ_marathon_1.png)
 [3](images/2019_NJ_marathon_2.png)
 [4](images/2019_NJ_marathon_3.png)
