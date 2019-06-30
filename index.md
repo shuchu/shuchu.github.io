@@ -5,7 +5,7 @@ Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs]
 
 I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University. 
 
-My personal research interests include streaming algorithm, online learning, Graph and System. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
+My personal research interests include Graphs, machine learning and data mining, time series data analytics. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
 
 ### [](#header-3) News:
 [TBA]
@@ -90,3 +90,8 @@ Pictures: [1](images/2018_princeton_hm_1.jpg)
 [7](images/princeton_4.jpg)
 [8](images/princeton_5.jpg)
 [9](images/princeton_6.jpg)
+[2019 NJ Half-Marathon -- 2:02:40]   
+Pictures: [1](image/2019_NJ_marathon.png)
+[2](image/2019_NJ_marathon_1.png)
+[3](image/2019_NJ_marathon_2.png)
+[4](image/2019_NJ_marathon_3.png)
