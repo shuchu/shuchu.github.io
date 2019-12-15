@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs](http://www.nec-labs.com/research-departments/data-science/data-science-home) in Princeton NJ. 
+Greetings! I am a Senior Associate Researcher at [Data Science team of NEC Labs](http://www.nec-labs.com/research-departments/data-science/data-science-home) at Princeton NJ. I work on anomaly detection and analysis problems from real world data. My research interests include machine learning and graph mining. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University, China.   
 
-I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and my B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University. 
-
-My personal research interests include Graphs, machine learning and data mining, time series data analytics. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ).    
-
-### [](#header-3) News:
-[TBA]
 
 ### [](#header-3) Manuscipts in Progress:   
+[Supervised Feature Subset Selection and Feature Ranking for Multivariate Time Series without Feature Extraction]()  
+Shuchu Han, Alexandru Niculescu-Mizil  
+Submitting 2019  
 
 ### [](#header-3) Conference Publications:   
 [Generating Look-alike Names For Security Challenges](https://dl.acm.org/citation.cfm?id=3128572.3140441)  
@@ -94,4 +91,7 @@ Pictures: [1](images/2018_princeton_hm_1.jpg)
 Pictures: [1](images/2019_NJ_marathon.png)
 [2](images/2019_NJ_marathon_1.png)
 [3](images/2019_NJ_marathon_2.png)
-[4](images/2019_NJ_marathon_3.png)
+[4](images/2019_NJ_marathon_3.png)  
+[2019 Princeton Half-Marathon -- 2:08:59]   
+[1](images/2019_Princeton_1.jpg)
+
