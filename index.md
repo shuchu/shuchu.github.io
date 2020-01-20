@@ -73,7 +73,7 @@ CAD 2011
 PhD thesis title: Sparse Graph Representation and Its Applications  
 
 ### [](#header-3) Reviewer for:
-2020: WSDM, SIGIR
+2020: WSDM, SIGIR     
 Earlier: WWW
 
 
