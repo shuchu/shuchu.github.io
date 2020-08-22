@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Greetings! I am an independent reseacher in machine learning and data mining area. Previously, I was a Senior Associate Researcher at  NEC Labs at Princeton NJ. I work on anomaly detection and fault diagnosis on real world data. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University, China.   
+Greetings! I am a senior security machine learning reseacher at [StellarCyber.ai](https://stellarcyber.ai). Previously, I was a Senior Associate Researcher at  NEC Labs at Princeton NJ. I work on anomaly detection and fault diagnosis problems on realtime data stream. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University, China.   
 
 
 ### [](#header-3) Manuscipts in Progress:   
