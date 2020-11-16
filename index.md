@@ -4,12 +4,10 @@ layout: default
 Greetings! I am a senior security machine learning reseacher at [StellarCyber.ai](https://stellarcyber.ai). Previously, I was a Senior Associate Researcher at  NEC Labs at Princeton NJ. I work on anomaly detection and fault diagnosis problems on realtime data stream. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University, China.   
 
 
-### [](#header-3) Manuscipts in Progress:   
-[Supervised Feature Subset Selection and Feature Ranking for Multivariate Time Series without Feature Extraction]()  
-Shuchu Han, Alexandru Niculescu-Mizil  
-Submitting 2019  
+### [](#header-3) Conference Publications: 
+[Supervised Feature Subset Selection and Feature Ranking for Multivariate Time Series without Feature Extraction](https://arxiv.org/abs/2005.00259)      
+Shuchu Han, Alexandru Niculescu-Mizil, 2020  
 
-### [](#header-3) Conference Publications:   
 [Generating Look-alike Names For Security Challenges](https://dl.acm.org/citation.cfm?id=3128572.3140441)  
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu, Hong Qin, Jaime Perez    
 AISec 2017
@@ -73,8 +71,12 @@ CAD 2011
 PhD thesis title: Sparse Graph Representation and Its Applications  
 
 ### [](#header-3) Reviewer for:
+2021: WSDM, SIGIR
 2020: WSDM, SIGIR     
 Earlier: WWW
+
+### [](#header-3) Great Interns:
+2020, [Meet S. Paradia](https://www.linkedin.com/in/meet-paradia/), UT. Texas@Dellas  
 
 
 ### Links:  
