@@ -1,4 +1,4 @@
-## Libararies and code
+## Libraries and code
 1.  [General resource by Yue Zhao](https://github.com/yzhao062/anomaly-detection-resources)  
 2.  [PYOD](https://github.com/yzhao062/pyod), [SUOD](https://github.com/yzhao062/SUOD), [metaOD](https://github.com/yzhao062/MetaOD)  
 3.  [TODS](https://github.com/datamllab/tods), [PyODDS](https://github.com/datamllab/pyodds)  
