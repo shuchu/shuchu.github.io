@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Greetings! I am a senior security machine learning reseacher at [StellarCyber.ai](https://stellarcyber.ai). Previously, I was a senior associate researcher at  NEC Labs at Princeton NJ. I work on anomaly detection and fault diagnosis problems on realtime data stream. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/), and B.Eng in Electronic and Information Engineering from Xi'an Jiaotong University, China.   
+Greetings! Shuchu here. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
 
 ### [](#header-3) Conference Publications: 
@@ -77,6 +77,7 @@ PhD thesis title: Sparse Graph Representation and Its Applications
 Earlier: WWW
 
 ### [](#header-3) Great Interns:
+2022, [Candus Shi], UCSD.
 2020, [Meet S. Paradia](https://www.linkedin.com/in/meet-paradia/), UT. Texas@Dallas  
 
 
