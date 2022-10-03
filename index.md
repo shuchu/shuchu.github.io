@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-Greetings! Shuchu here. This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
+Greetings! Shuchu here. I'm interested in building Machine Learning (ML) system for anomaly detection, especially for Metrics, Events, Logs and Traces (MELT) data.  
+
+This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
 
 ### [](#header-3) Conference Publications: 
@@ -70,14 +72,15 @@ CAD 2011
 ### [](#header-3) Tutorials:   
 PhD thesis title: Sparse Graph Representation and Its Applications  
 
-### [](#header-3) Reviewer for:   
+### [](#header-3) Reviewer for: 
+2023: WSDM, SIGIR, KDD  
 2022: WSDM, SIGIR, KDD, IJDSA   
 2021: WSDM, SIGIR, KDD, IJDSA          
 2020: WSDM, SIGIR     
 Earlier: WWW
 
 ### [](#header-3) Great Interns:
-2022, [Candus Shi], UCSD.
+2022, [Candus Shi], UCSD.  
 2020, [Meet S. Paradia](https://www.linkedin.com/in/meet-paradia/), UT. Texas@Dallas  
 
 
@@ -85,6 +88,7 @@ Earlier: WWW
 [Anomaly Detection](anomaly_detection.md)   
 [Optimization-online](http://www.optimization-online.org)   
 [Distributed system](https://www.allthingsdistributed.com/)
+[Streaming system](streaming_sys.md)  
 
 
 
