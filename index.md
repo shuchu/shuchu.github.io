@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Greetings! Shuchu here. I'm interested in building Machine Learning (ML) system for anomaly detection, especially for Metrics, Events, Logs and Traces (MELT) data.  
+Greetings! Shuchu here. I'm interested in Machine Learning and Data Mining.    
 
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
@@ -73,7 +73,7 @@ CAD 2011
 PhD thesis title: Sparse Graph Representation and Its Applications  
 
 ### [](#header-3) Reviewer for: 
-2023: WSDM, SIGIR, KDD  
+2023: WSDM, SIGIR, KDD, ECMLPKDD, IJDSA 
 2022: WSDM, SIGIR, KDD, IJDSA   
 2021: WSDM, SIGIR, KDD, IJDSA          
 2020: WSDM, SIGIR     
