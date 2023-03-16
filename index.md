@@ -87,7 +87,7 @@ Earlier: WWW
 ### Links:  
 [Anomaly Detection](anomaly_detection.md)   
 [Optimization-online](http://www.optimization-online.org)   
-[Distributed system](https://www.allthingsdistributed.com/)
+[Distributed system](https://www.allthingsdistributed.com/)  
 [Streaming system](streaming_sys.md)  
 
 
