@@ -84,14 +84,17 @@ Earlier: WWW
 2022, [Candus Shi], UCSD.  
 2020, [Meet S. Paradia](https://www.linkedin.com/in/meet-paradia/), UT. Texas@Dallas  
 
-
 ### Links:  
 [Anomaly Detection](anomaly_detection.md)   
 [Optimization-online](http://www.optimization-online.org)   
 [Distributed system](https://www.allthingsdistributed.com/)  
 [Streaming system](streaming_sys.md)  
 
-
+### Friends:
+[Ying He](https://personal.ntu.edu.sg/yhe/)  
+[Ker-i Ko](https://www3.cs.stonybrook.edu/~keriko/)  
+[Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/)  
+[Francesco Orabona](https://francesco.orabona.com/)  
 
 ### Games:
 [2018 Princeton Half-Marathon -- 2:08:43]  
