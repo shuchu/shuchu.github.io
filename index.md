@@ -95,6 +95,7 @@ Earlier: WWW
 [Ker-i Ko](https://www3.cs.stonybrook.edu/~keriko/)  
 [Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/)  
 [Francesco Orabona](https://francesco.orabona.com/)  
+[Chaz Lever](https://chazlever.com/)  
 
 ### Games:
 [2018 Princeton Half-Marathon -- 2:08:43]  
