@@ -90,7 +90,7 @@ Earlier: WWW
 [Distributed system](https://www.allthingsdistributed.com/)  
 [Streaming system](streaming_sys.md)  
 
-### Friends:
+### Researchers:  
 [Ying He](https://personal.ntu.edu.sg/yhe/)  
 [Ker-i Ko](https://www3.cs.stonybrook.edu/~keriko/)  
 [Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/)  
