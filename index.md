@@ -3,8 +3,9 @@ layout: default
 ---
 Greetings! Shuchu here. I'm interested in Machine Learning and Data Mining.    
 
-This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my Ph.D in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
+This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my PhD in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
+My [blogpost](https://shuchu.blogspot.com/)  
 
 ### [](#header-3) Conference Publications: 
 [Supervised Feature Subset Selection and Feature Ranking for Multivariate Time Series without Feature Extraction](https://arxiv.org/abs/2005.00259)      
