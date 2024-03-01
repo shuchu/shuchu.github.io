@@ -5,8 +5,6 @@ Greetings! Shuchu here. I'm interested in Machine Learning and Data Mining.
 
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my PhD in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
-My [blogpost](https://shuchu.blogspot.com/)  
-
 ### [](#header-3) Conference Publications: 
 [Supervised Feature Subset Selection and Feature Ranking for Multivariate Time Series without Feature Extraction](https://arxiv.org/abs/2005.00259)      
 Shuchu Han, Alexandru Niculescu-Mizil, 2020  
@@ -117,3 +115,4 @@ Pictures: [1](images/2019_NJ_marathon.png)
 [2019 Princeton Half-Marathon -- 2:08:59]   
 [1](images/2019_Princeton_1.jpg)
 
+Old [blogpost](https://shuchu.blogspot.com/)  
