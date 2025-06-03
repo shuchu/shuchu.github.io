@@ -6,6 +6,9 @@ Greetings! Shuchu here. I'm interested in Machine Learning and Data Mining.
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my PhD in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
 ### [](#header-3) Conference Publications: 
+[Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?](http://arxiv.org/abs/2506.00751)  
+Zhuojun Gu, Quan Wang, Shuchu Han, 2025  
+
 [Supervised Feature Subset Selection and Feature Ranking for Multivariate Time Series without Feature Extraction](https://arxiv.org/abs/2005.00259)      
 Shuchu Han, Alexandru Niculescu-Mizil, 2020  
 
@@ -18,6 +21,9 @@ Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Ski
 CIKM 2017      
 [Steve on WIRED magazine](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/).    
 Junting's hard working on [NamePrism](http://www.name-prism.com).  
+
+[Automatically Redundant Features Removal for Unsupervised Feature Selection via Sparse Feature Graph](http://https://arxiv.org/abs/1705.04804)  
+Shuchu Han, Hao Huang, Hong Qin, 2017    
 
 [Generating Look-alike Names via Distributed Representations](papers/2016_Yahoo_Look_alike_Names.pdf)     
 Shuchu Han, Yifan Hu, Steven Skiena, Baris Coskun, Meizhu Liu  
