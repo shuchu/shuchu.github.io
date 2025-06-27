@@ -6,6 +6,9 @@ Greetings! Shuchu here. I'm interested in Machine Learning and Data Mining.
 This is my [CV](docs/ShuchuHan_cv.pdf) and [Google scholar](https://scholar.google.com/citations?hl=en&user=5wfcig0AAAAJ). I received my PhD in [Computer Science from Stony Brook University](https://www.cs.stonybrook.edu/).   
 
 ### [](#header-3) Conference Publications: 
+[Automatic Demonstration Selection for LLM-based Tabular Data Classification](https://arxiv.org/abs/2506.20451)  
+Shuchu Han, Wolfgang Bruckner, 2025  
+
 [Alignment Revisited: Are Large Language Models Consistent in Stated and Revealed Preferences?](http://arxiv.org/abs/2506.00751)  
 Zhuojun Gu, Quan Wang, Shuchu Han, 2025  
 
